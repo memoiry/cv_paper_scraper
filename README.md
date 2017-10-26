@@ -3,9 +3,7 @@
 cv_paper_scraper is tiny script for downloading pdfs from CVFoundation Open Access Repository: 
 http://openaccess.thecvf.com/menu.py
 
-And also NIPS
-
-This script also make all paper list as html file.
+And also NIPS (range from 1988-2016, currently 2017 is not supported since it's not released and there is a repo scraping nips 2017 papers' abstract from arxiv, you can `git clone -r https://github.com/memoiry/cv_paper_scraper` to download both the repo)
 
 ## Requirements
 
@@ -14,6 +12,8 @@ This script also make all paper list as html file.
 Simply 
 
 ```bash
+git clone -r https://github.com/memoiry/cv_paper_scraper
+cd cv_paper_scraper
 pip -r requirements.txt
 ```
 
