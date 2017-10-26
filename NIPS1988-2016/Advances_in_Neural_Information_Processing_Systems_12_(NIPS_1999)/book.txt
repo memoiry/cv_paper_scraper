@@ -1,0 +1,150 @@
+Recognizing Evoked Potentials in a Virtual Environment Jessica D. Bayliss, Dana H. Ballard
+A Neurodynamical Approach to Visual Attention Gustavo Deco, Josef Zihl
+Effects of Spatial and Temporal Contiguity on the Acquisition of Spatial Information Thea B. Ghiselli-Crippa, Paul W. Munro
+Acquisition in Autoshaping Sham Kakade, Peter Dayan
+Robust Recognition of Noisy and Superimposed Patterns via Selective Attention Soo-Young Lee, Michael C. Mozer
+Perceptual Organization Based on Temporal Dynamics Xiuwen Liu, DeLiang L. Wang
+Information Factorization in Connectionist Models of Perception Javier R. Movellan, James L. McClelland
+Graded Grammaticality in Prediction Fractal Machines Shan Parfitt, Peter Tiño, Georg Dorffner
+Rules and Similarity in Concept Learning Joshua B. Tenenbaum
+Evolving Learnable Languages Bradley Tonkes, Alan Blair, Janet Wiles
+Learning Statistically Neutral Tasks without Expert Guidance Ton Weijters, Antal van den Bosch, Eric O. Postma
+A Generative Model for Attractor Dynamics Richard S. Zemel, Michael C. Mozer
+Recurrent Cortical Competition  Strengthen or Weaken  Péter Adorján, Lars Schwabe, Christian Piepenbrock, Klaus Obermayer
+Effective Learning Requires Neuronal Remodeling of Hebbian Synapses Gal Chechik, Isaac Meilijson, Eytan Ruppin
+Wiring Optimization in the Brain Dmitri B. Chklovskii, Charles F. Stevens
+Optimal Sizes of Dendritic and Axonal Arbors Dmitri B. Chklovskii
+Neural Representation of Multi-Dimensional Stimuli Christian W. Eurich, Stefan D. Wilke, Helmut Schwegler
+Spiking Boltzmann Machines Geoffrey E. Hinton, Andrew D. Brown
+Distributed Synchrony of Spiking Neurons in a Hebbian Cell Assembly David Horn, Nir Levy, Isaac Meilijson, Eytan Ruppin
+Can VI Mechanisms Account for Figure-Ground and Medial Axis Effects  Zhaoping Li
+Channel Noise in Excitable Neural Membranes Amit Manwani, Peter N. Steinmetz, Christof Koch
+LTD Facilitates Learning in a Noisy Environment Paul W. Munro, Gerardina Hernández
+Memory Capacity of Linear vs. Nonlinear Models of Dendritic Integration Panayiota Poirazi, Bartlett W. Mel
+Predictive Sequence Learning in Recurrent Neocortical Circuits Rajesh P. N. Rao, Terrence J. Sejnowski
+A Recurrent Model of the Interaction Between Prefrontal and Inferotemporal Cortex in Delay Tasks Alfonso Renart, Néstor Parga, Edmund T. Rolls
+Information Capacity and Robustness of Stochastic Neuron Models Elad Schneidman, Idan Segev, Naftali Tishby
+An MEG Study of Response Latency and Variability in the Human Visual System During a Visual-Motor Integration Task Akaysha C. Tang, Barak A. Pearlmutter, Tim A. Hely, Michael Zibulevsky, Michael P. Weisend
+Population Decoding Based on an Unfaithful Model Si Wu, Hiroyuki Nakahara, Noboru Murata, Shun-ichi Amari
+Spike-based Learning Rules and Stabilization of Persistent Neural Activity Xiaohui Xie, H. Sebastian Seung
+A Variational Baysian Framework for Graphical Models Hagai Attias
+Model Selection in Clustering by Uniform Convergence Bounds Joachim M. Buhmann, Marcus Held
+Uniqueness of the SVM Solution Christopher J. C. Burges, David J. Crisp
+Model Selection for Support Vector Machines Olivier Chapelle, Vladimir Vapnik
+Dynamics of Supervised Learning with Restricted Training Sets and Noisy Teachers Anthony C. C. Coolen, C. W. H. Mace
+A Geometric Interpretation of v-SVM Classifiers David J. Crisp, Christopher J. C. Burges
+Efficient Approaches to Gaussian Process Classification Lehel Csató, Ernest Fokoué, Manfred Opper, Bernhard Schottky, Ole Winther
+Potential Boosters  Nigel Duffy, David P. Helmbold
+Bayesian Averaging is Well-Temperated Lars Kai Hansen
+Regular and Irregular Gallager-zype Error-Correcting Codes Yoshiyuki Kabashima, Tatsuto Murayama, David Saad, Renato Vicente
+Mixture Density Estimation Jonathan Q. Li, Andrew R. Barron
+Statistical Dynamics of Batch Learning Song Li, K. Y. Michael Wong
+Neural Computation with Winner-Take-All as the Only Nonlinear Operation Wolfgang Maass
+Boosting with Multi-Way Branching in Decision Trees Yishay Mansour, David A. McAllester
+Inference for the Generalization Error Claude Nadeau, Yoshua Bengio
+Resonance in a Stochastic Neuron Model with Delayed Interaction Toru Ohira, Yuzuru Sato, Jack D. Cowan
+Understanding Stepwise Generalization of Support Vector Machines  a Toy Model Sebastian Risau-Gusman, Mirta B. Gordon
+Lower Bounds on the Complexity of Approximating Continuous Functions by Sigmoidal Neural Networks Michael Schmitt
+Noisy Neural Networks and Generalizations Hava T. Siegelmann, Alexander Roitershtein, Asa Ben-Hur
+The Entropy Regularization Information Criterion Alex J. Smola, John Shawe-Taylor, Prof. Bernhard Schölkopf, Robert C. Williamson
+Probabilistic Methods for Support Vector Machines Peter Sollich
+Algebraic Analysis for Non-regular Learning Machines Sumio Watanabe
+Semiparametric Approach to Multichannel Blind Deconvolution of Nonminimum Phase Systems Liqing Zhang, Shun-ichi Amari, Andrzej Cichocki
+Some Theoretical Results Concerning the Convergence of Compositions of Regularized Linear Functions Tong Zhang
+Robust Full Bayesian Methods for Neural Networks Christophe Andrieu, João F. G. de Freitas, Arnaud Doucet
+Independent Factor Analysis with Temporally Structured Sources Hagai Attias
+Gaussian Fields for Approximate Inference in Layered Sigmoid Belief Networks David Barber, Peter Sollich
+Modeling High-Dimensional Discrete Data with Multi-Layer Neural Networks Yoshua Bengio, Samy Bengio
+Robust Neural Network Regression for Offline and Online Learning Thomas Briegel, Volker Tresp
+Reconstruction of Sequential Data with Probabilistic Models and Continuity Constraints Miguel Á. Carreira-Perpiñán
+Transductive Inference for Estimating Values of Functions Olivier Chapelle, Vladimir Vapnik, Jason Weston
+The Nonnegative Boltzmann Machine Oliver B. Downs, David J. C. MacKay, Daniel D. Lee
+Differentiating Functions of the Jacobian with Respect to the Weights Gary William Flake, Barak A. Pearlmutter
+Local Probability Propagation for Factor Analysis Brendan J. Frey
+Variational Inference for Bayesian Mixtures of Factor Analysers Zoubin Ghahramani, Matthew J. Beal
+Bayesian Transduction Thore Graepel, Ralf Herbrich, Klaus Obermayer
+Learning to Parse Images Geoffrey E. Hinton, Zoubin Ghahramani, Yee Whye Teh
+Maximum Entropy Discrimination Tommi Jaakkola, Marina Meila, Tony Jebara
+Topographic Transformation as a Discrete Latent Variable Nebojsa Jojic, Brendan J. Frey
+An Improved Decomposition Algorithm for Regression Support Vector Machines Pavel Laskov
+Algorithms for Independent Components Analysis and Higher Order Statistics Daniel D. Lee, Uri Rokni, Haim Sompolinsky
+The Relaxed Online Maximum Margin Algorithm Yi Li, Philip M. Long
+Bayesian Network Induction via Local Neighborhoods Dimitris Margaritis, Sebastian Thrun
+Boosting Algorithms as Gradient Descent Llew Mason, Jonathan Baxter, Peter L. Bartlett, Marcus R. Frean
+A Multi-class Linear Learning Algorithm Related to Winnow Chris Mesterharm
+Invariant Feature Extraction and Classification in Kernel Spaces Sebastian Mika, Gunnar Rätsch, Jason Weston, Prof. Bernhard Schölkopf, Alex J. Smola, Klaus-Robert Müller
+Approximate Inference A lgorithms for Two-Layer Bayesian Networks Andrew Y. Ng, Michael I. Jordan
+Optimal Kernel Shapes for Local Linear Regression Dirk Ormoneit, Trevor Hastie
+Large Margin DAGs for Multiclass Classification John C. Platt, Nello Cristianini, John Shawe-Taylor
+The Infinite Gaussian Mixture Model Carl Edward Rasmussen
+v-Arc  Ensemble Learning in the Presence of Outliers Gunnar Rätsch, Prof. Bernhard Schölkopf, Alex J. Smola, Klaus-Robert Müller, Takashi Onoda, Sebastian Mika
+Nonlinear Discriminant Analysis Using Kernel Functions Volker Roth, Volker Steinhage
+An Analysis of Turbo Decoding with Gaussian Densities Paat Rusmevichientong, Benjamin Van Roy
+Support Vector Method for Novelty Detection Prof. Bernhard Schölkopf, Robert C. Williamson, Alex J. Smola, John Shawe-Taylor, John C. Platt
+Better Generative Models for Sequential Data Problems  Bidirectional Recurrent Mixture Density Networks Mike Schuster
+Greedy Importance Sampling Dale Schuurmans
+Bayesian Model Selection for Support Vector Machines, Gaussian Processes and Other Kernel Classifiers Matthias Seeger
+Leveraged Vector Machines Yoram Singer
+Agglomerative Information Bottleneck Noam Slonim, Naftali Tishby
+Training Data Selection for Optimal Generalization in Trigonometric Polynomial Networks Masashi Sugiyama, Hidemitsu Ogawa
+Predictive App roaches for Choosing Hyperparameters in Gaussian Processes S. Sundararajan, S. Sathiya Keerthi
+On Input Selection with Reversible Jump Markov Chain Monte Carlo Sampling Peter Sykacek
+Building Predictive Models from Fractal Representations of Symbolic Sequences Peter Tiño, Georg Dorffner
+The Relevance Vector Machine Michael E. Tipping
+Support Vector Method for Multivariate Density Estimation Vladimir Vapnik, Sayan Mukherjee
+Dual Estimation and the Unscented Transformation Eric A. Wan, Rudolph van der Merwe, Alex T. Nelson
+Correctness of Belief Propagation in Gaussian Graphical Models of Arbitrary Topology Yair Weiss, William T. Freeman
+A MCMC Approach to Hierarchical Mixture Modelling Christopher K. I. Williams
+Data Visualization and Feature Selection  New Algorithms for Nongaussian Data Howard Hua Yang, John Moody
+Manifold Stochastic Dynamics for Bayesian Learning Mark Zlochin, Yoram Baram
+The Parallel Problems Server  an Interactive Tool for Large Scale Machine Learning Charles Lee Isbell Jr., Parry Husbands
+An Oculo-Motor System with Multi-Chip Neuromorphic Analog VLSI Control Oliver Landolt, Steve Gyger
+A Winner-Take-All Circuit with Controllable Soft Max Property Shih-Chii Liu
+A Neuromorphic VLSI System for Modeling the Neural Control of Axial Locomotion Girish N. Patel, Edgar A. Brown, Stephen P. DeWeerth
+Bifurcation Analysis of a Silicon Neuron Girish N. Patel, Gennady S. Cymbalyuk, Ronald L. Calabrese, Stephen P. DeWeerth
+An Analog VLSI Model of Periodicity Extraction André van Schaik
+An Oscillatory Correlation Frame work for Computational Auditory Scene Analysis Guy J. Brown, DeLiang L. Wang
+Bayesian Modelling of fMRI lime Series Pedro A. d. F. R. Højen-Sørensen, Lars Kai Hansen, Carl Edward Rasmussen
+Neural System Model of Human Sound Localization Craig T. Jin, Simon Carlile
+Spectral Cues in Human Sound Localization Craig T. Jin, Anna Corderoy, Simon Carlile, André van Schaik
+Broadband Direction-Of-Arrival Estimation Based on Second Order Statistics Justinian P. Rosca, Joseph Ó Ruanaidh, Alexander Jourjine, Scott Rickard
+Constrained Hidden Markov Models Sam T. Roweis
+Online Independent Component Analysis with Local Learning Rate Adaptation Nicol N. Schraudolph, Xavier Giannakopoulos
+Speech Modelling Using Subspace and EM Techniques Gavin Smith, João F. G. de Freitas, Tony Robinson, Mahesan Niranjan
+Search for Information Bearing Components in Speech Howard Hua Yang, Hynek Hermansky
+Audio Vision  Using Audio-Visual Synchrony to Locate Sounds John R. Hershey, Javier R. Movellan
+Bayesian Reconstruction of 3D Human Motion from Single-Camera Video Nicholas R. Howe, Michael E. Leventon, William T. Freeman
+Emergence of Topography and Complex Cell Properties from Natural Images using Extensions of ICA Aapo Hyvärinen, Patrik O. Hoyer
+An Information-Theoretic Framework for Understanding Saccadic Eye Movements Tai Sing Lee, Stella X. Yu
+Learning Sparse Codes with a Mixture-of-Gaussians Prior Bruno A. Olshausen, K. Jarrod Millman
+Hierarchical Image Probability (H1P) Models Clay Spence, Lucas C. Parra
+Scale Mixtures of Gaussians and the Statistics of Natural Images Martin J. Wainwright, Eero P. Simoncelli
+A SNoW-Based Face Detector Ming-Hsuan Yang, Dan Roth, Narendra Ahuja
+Managing Uncertainty in Cue Combination Zhiyong Yang, Richard S. Zemel
+Robust Learning of Chaotic Attractors Rembrandt Bakker, Jaap C. Schouten, Marc-Olivier Coppens, Floris Takens, C. Lee Giles, Cor M. van den Bleek
+Image Representations for Facial Expression Coding Marian Stewart Bartlett, Gianluca Donato, Javier R. Movellan, Joseph C. Hager, Paul Ekman, Terrence J. Sejnowski
+Low Power Wireless Communication via Reinforcement Learning Timothy X. Brown
+Learning Informative Statistics  A Nonparametnic Approach John W. Fisher III, Alexander T. Ihler, Paul A. Viola
+Kirchoff Law Markov Fields for Analog Circuit Design Richard M. Golden
+Learning the Similarity of Documents  An Information-Geometric Approach to Document Retrieval and Categorization Thomas Hofmann
+Constructing Heterogeneous Committees Using Input Feature Grouping  Application to Economic Forecasting Yuansong Liao, John E. Moody
+From Coexpression to Coregulation  An Approach to Inferring Transcriptional Regulation among Gene Classes from Large-Scale Expression Data Eric Mjolsness, Tobias Mann, Rebecca Castaño, Barbara J. Wold
+Churn Reduction in the Wireless Industry Michael C. Mozer, Richard H. Wolniewicz, David B. Grimes, Eric Johnson, Howard Kaushansky
+Unmixing Hyperspectral Data Lucas C. Parra, Clay Spence, Paul Sajda, Andreas Ziehe, Klaus-Robert Müller
+Application of Blind Separation of Sources to Optical Recording of Brain Activity Holger Schoner, Martin Stetter, Ingo Schießl, John E. W. Mayhew, Jennifer S. Lund, Niall McLoughlin, Klaus Obermayer
+Reinforcement Learning for Spoken Dialogue Systems Satinder P. Singh, Michael J. Kearns, Diane J. Litman, Marilyn A. Walker
+Image Recognition in Context  Application to Microscopic Urinalysis Xubo B. Song, Joseph Sill, Yaser S. Abu-Mostafa, Harvey Kasdan
+Generalized Model Selection for Unsupervised Learning in High Dimensions Shivakumar Vaithyanathan, Byron Dom
+Learning from User Feedback in Image Retrieval Systems Nuno Vasconcelos, Andrew Lippman
+An Environment Model for Nonstationary Reinforcement Learning Samuel P. M. Choi, Dit-Yan Yeung, Nevin Lianwen Zhang
+State Abstraction in MAXQ Hierarchical Reinforcement Learning Thomas G. Dietterich
+Approximate Planning in Large POMDPs via Reusable Trajectories Michael J. Kearns, Yishay Mansour, Andrew Y. Ng
+Actor-Critic Algorithms Vijay R. Konda, John N. Tsitsiklis
+Bayesian Map Learning in Dynamic Environments Kevin P. Murphy
+Policy Search via Density Estimation Andrew Y. Ng, Ronald Parr, Daphne Koller
+Neural Network Based Model Predictive Control Stephen Piche, James D. Keeler, Greg Martin, Gene Boe, Doug Johnson, Mark Gerules
+Reinforcement Learning Using Approximate Belief States Andres C. Rodriguez, Ronald Parr, Daphne Koller
+Coastal Navigation with Mobile Robots Nicholas Roy, Sebastian Thrun
+Learning Factored Representations for Partially Observable Markov Decision Processes Brian Sallans
+Policy Gradient Methods for Reinforcement Learning with Function Approximation Richard S. Sutton, David A. McAllester, Satinder P. Singh, Yishay Mansour
+Monte Carlo POMDPs Sebastian Thrun

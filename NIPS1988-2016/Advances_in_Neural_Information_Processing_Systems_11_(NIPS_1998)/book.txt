@@ -1,0 +1,151 @@
+Evidence for a Forward Dynamics Model in Human Adaptive Motor Control Nikhil Bhushan, Reza Shadmehr
+Perceiving without Learning  From Spirals to Inside Outside Relations Ke Chen, DeLiang L. Wang
+A Model for Associative Multiplication G. Bjorn Christianson, Suzanna Becker
+Facial Memory Is Kernel Density Estimation (Almost) Matthew N. Dailey, Garrison W. Cottrell, Thomas A. Busey
+Multiple Paired Forward-Inverse Models for Human Motor Learning and Control Masahiko Haruno, Daniel M. Wolpert, Mitsuo Kawato
+Utilizing lime  Asynchronous Binding Bradley C. Love
+Mechanisms of Generalization in Perceptual Learning Zili Liu, Daphna Weinshall
+A Principle for Unsupervised Hierarchical Decomposition of Visual Scenes Michael C. Mozer
+Bayesian Modeling of Human Concept Learning Joshua B. Tenenbaum
+Temporally Asymmetric Hebbian Learning, Spike liming and Neural Response Variability L. F. Abbott, Sen Song
+Contrast Adaptation in Simple Cells by Changing the Transmitter Release Probability Péter Adorján, Klaus Obermayer
+Where Does the Population Vector of Motor Cortical Cells Point during Reaching Movements  Pierre Baraduc, Emmanuel Guigon, Yves Burnod
+Recurrent Cortical Amplification Produces Complex Cell Responses Frances S. Chance, Sacha B. Nelson, L. F. Abbott
+Neuronal Regulation Implements Efficient Synaptic Pruning Gal Chechik, Isaac Meilijson, Eytan Ruppin
+Divisive Normalization, Line Attractor Networks and Ideal Observers Sophie Denève, Alexandre Pouget, Peter E. Latham
+Synergy and Redundancy among Brain Cells of Behaving Monkeys Itay Gat, Naftali Tishby
+Analyzing and Visualizing Single-Trial Event-Related Potentials Tzyy-Ping Jung, Scott Makeig, Marissa Westerfield, Jeanne Townsend, Eric Courchesne, Terrence J. Sejnowski
+Spike-Based Compared to Rate-Based Hebbian Learning Richard Kempter, Wulfram Gerstner, J. Leo van Hemmen
+Signal Detection in Noisy Weakly-Active Dendrites Amit Manwani, Christof Koch
+The Role of Lateral Cortical Competition in Ocular Dominance Development Christian Piepenbrock, Klaus Obermayer
+Multi-Electrode Spike Sorting by Clustering Transfer Functions Dmitry Rinberg, Hanan Davidowitz, Naftali Tishby
+Modeling Surround Suppression in V1 Neurons with a Statistically Derived Normalization Model Eero P. Simoncelli, Odelia Schwartz
+Information Maximization in Single Neurons Martin Stemmler, Christof Koch
+The Effect of Correlations on the Fisher Information of Population Codes Hyoungsoo Yoon, Haim Sompolinsky
+Distributional Population Codes and Multiple Motion Models Richard S. Zemel, Peter Dayan
+Tractable Variational Structures for Approximating Graphical Models David Barber, Wim Wiegerinck
+Almost Linear VC Dimension Bounds for Piecewise Polynomial Networks Peter L. Bartlett, Vitaly Maiorov, Ron Meir
+Dynamics of Supervised Learning with Restricted Training Sets Anthony C. C. Coolen, David Saad
+Dynamically Adapting Kernels in Support Vector Machines Nello Cristianini, Colin Campbell, John Shawe-Taylor
+Phase Diagram and Storage Capacity of Sequence-Storing Neural Networks A. Düring, Anthony C. C. Coolen, D. Sherrington
+Finite-Dimensional Approximation of Gaussian Processes Giancarlo Ferrari-Trecate, Christopher K. I. Williams, Manfred Opper
+Linear Hinge Loss and Average Margin Claudio Gentile, Manfred K. Warmuth
+Unsupervised and Supervised Clustering  The Mutual Information between Parameters and Observations Didier Herschkowitz, Jean-Pierre Nadal
+Convergence of the Wake-Sleep Algorithm Shiro Ikeda, Shun-ichi Amari, Hiroyuki Nakahara
+The Belief in TAP Yoshiyuki Kabashima, David Saad
+Optimizing Classifers for Imbalanced Training Sets Grigoris I. Karakoulas, John Shawe-Taylor
+Inference in Multilayer Networks via Large Deviation Bounds Michael J. Kearns, Lawrence K. Saul
+Stationarity and Stability of Autoregressive Neural Network Processes Friedrich Leisch, Adrian Trapletti, Kurt Hornik
+Computational Differences between Asymmetrical and Symmetrical Networks Zhaoping Li, Peter Dayan
+A Precise Characterization of the Class of Languages Recognized by Neural Nets under Gaussian and Other Common Noise Distributions Wolfgang Maass, Eduardo D. Sontag
+Direct Optimization of Margins Improves Generalization in Combined Classifiers Llew Mason, Peter L. Bartlett, Jonathan Baxter
+On the Optimality of Incremental Neural Network Algorithms Ron Meir, Vitaly Maiorov
+General Bounds on Bayes Errors for Regression with Gaussian Processes Manfred Opper, Francesco Vivarelli
+Mean Field Methods for Classification with Gaussian Processes Manfred Opper, Ole Winther
+On-Line Learning with Restricted Training Sets  Exact Solution as Benchmark for General Theories H. C. Rae, Peter Sollich, Anthony C. C. Coolen
+Tight Bounds for the VC-Dimension of Piecewise Polynomial Networks Akito Sakurai
+Shrinking the Tube  A New Support Vector Regression Algorithm Prof. Bernhard Schölkopf, Peter L. Bartlett, Alex J. Smola, Robert C. Williamson
+Discontinuous Recall Transitions Induced by Competition Between Short- and Long-Range Interactions in Recurrent Networks N. S. Skantzos, C. F. Beckmann, Anthony C. C. Coolen
+Learning Curves for Gaussian Processes Peter Sollich
+A Theory of Mean Field Approximation Toshiyuki Tanaka
+Learning a Hierarchical Belief Network of Independent Factor Analyzers Hagai Attias
+Semi-Supervised Support Vector Machines Kristin P. Bennett, Ayhan Demiriz
+Lazy Learning Meets the Recursive Least Squares Algorithm Mauro Birattari, Gianluca Bontempi, Hugues Bersini
+Bayesian PCA Christopher M. Bishop
+Learning Multi-Class Dynamics Andrew Blake, Ben North, Michael Isard
+Approximate Learning of Dynamic Models Xavier Boyen, Daphne Koller
+Fisher Scoring and a Mixture of Modes Approach for Approximate Inference and Learning in Nonlinear State Space Models Thomas Briegel, Volker Tresp
+Global Optimisation of Neural Network Models via Sequential Sampling João F. G. de Freitas, Mahesan Niranjan, Arnaud Doucet, Andrew H. Gee
+Efficient Bayesian Parameter Estimation in Large Discrete Domains Nir Friedman, Yoram Singer
+A Randomized Algorithm for Pairwise Clustering Yoram Gdalyahu, Daphna Weinshall, Michael Werman
+Learning Nonlinear Dynamical Systems Using an EM Algorithm Zoubin Ghahramani, Sam T. Roweis
+Classification on Pairwise Proximity Data Thore Graepel, Ralf Herbrich, Peter Bollmann-Sdorra, Klaus Obermayer
+Outcomes of the Equivalence of Adaptive Ridge with Least Absolute Shrinkage Yves Grandvalet, Stéphane Canu
+Visualizing Group Structure Marcus Held, Jan Puzicha, Joachim M. Buhmann
+Source Separation as a By-Product of Regularization Sepp Hochreiter, Juergen Schmidhuber
+Learning from Dyadic Data Thomas Hofmann, Jan Puzicha, Michael I. Jordan
+Sparse Code Shrinkage  Denoising by Nonlinear Maximum Likelihood Estimation Aapo Hyvärinen, Patrik O. Hoyer, Erkki Oja
+Restructuring Sparse High Dimensional Data for Effective Retrieval Charles Lee Isbell Jr., Paul A. Viola
+Exploiting Generative Models in Discriminative Classifiers Tommi Jaakkola, David Haussler
+Maximum Conditional Likelihood via Bound Maximization and the CEM Algorithm Tony Jebara, Alex Pentland
+A Polygonal Line Algorithm for Constructing Principal Curves Balázs Kégl, Adam Krzyzak, Tamás Linder, Kenneth Zeger
+Unsupervised Classification with Non-Gaussian Mixture Models Using ICA Te-Won Lee, Michael S. Lewicki, Terrence J. Sejnowski
+Learning a Continuous Hidden Variable Model for Binary Data Daniel D. Lee, Haim Sompolinsky
+Neural Networks for Density Estimation Malik Magdon-Ismail, Amir F. Atiya
+Exploratory Data Analysis Using Radial Basis Function Latent Variable Models Alan D. Marrs, Andrew R. Webb
+Kernel PCA and De-Noising in Feature Spaces Sebastian Mika, Prof. Bernhard Schölkopf, Alex J. Smola, Klaus-Robert Müller, Matthias Scholz, Gunnar Rätsch
+Very Fast EM-Based Mixture Model Clustering Using Multiresolution Kd-Trees Andrew W. Moore
+Replicator Equations, Maximal Cliques, and Graph Isomorphism Marcello Pelillo
+Using Analytic QP and Sparseness to Speed Training of Support Vector Machines John C. Platt
+Regularizing AdaBoost Gunnar Rätsch, Takashi Onoda, Klaus R. Müller
+Boxlets  A Fast Convolution Algorithm for Signal Processing and Neural Networks Patrice Simard, Léon Bottou, Patrick Haffner, Yann LeCun
+Batch and On-Line Parameter Estimation of Gaussian Mixtures Based on the Joint Entropy Yoram Singer, Manfred K. Warmuth
+Semiparametric Support Vector and Linear Programming Machines Alex J. Smola, Thilo-Thomas Frieß, Prof. Bernhard Schölkopf
+Probabilistic Visualisation of High-Dimensional Binary Data Michael E. Tipping
+SMEM Algorithm for Mixture Models Naonori Ueda, Ryohei Nakano, Zoubin Ghahramani, Geoffrey E. Hinton
+Learning Mixture Hierarchies Nuno Vasconcelos, Andrew Lippman
+Discovering Hidden Features with Gaussian Processes Regression Francesco Vivarelli, Christopher K. I. Williams
+The Bias-Variance Tradeoff and the Randomized GACV Grace Wahba, Xiwu Lin, Fangyu Gao, Dong Xiang, Ronald Klein, Barbara Klein
+Basis Selection for Wavelet Regression Kevin R. Wheeler, Atam P. Dhawan
+DTs  Dynamic Trees Christopher K. I. Williams, Nicholas J. Adams
+Convergence Rates of Algorithms for Visual Search  Detecting Visual Contours Alan L. Yuille, James M. Coughlan
+Blind Separation of Filtered Sources Using State-Space Approach Liqing Zhang, Andrzej Cichocki
+Analog VLSI Cellular Implementation of the Boundary Contour System Gert Cauwenberghs, James Waskiewicz
+Active Noise Canceling Using Analog Neuro-Chip with On-Chip Learning Capability Jung-Wook Cho, Soo-Young Lee
+A Micropower CMOS Adaptive Amplitude and Shift Invariant Vector Quantiser Richard Coggins, Raymond J. Wang, Marwan A. Jabri
+Optimizing Correlation Algorithms for Hardware-Based Transient Classification R. Timothy Edwards, Gert Cauwenberghs, Fernando J. Pineda
+VLSI Implementation of Motion Centroid Localization for Autonomous Navigation Ralph Etienne-Cummings, Viktor Gruev, Mohammed Abdel Ghani
+A Neuromorphic Monaural Sound Localizer John G. Harris, Chiang-Jung Pu, José Carlos Príncipe
+An Integrated Vision Sensor for the Computation of Optical Flow Singular Points Charles M. Higgins, Christof Koch
+Computation of Smooth Optical Flow in a Feedback Connected Analog Network Alan A. Stocker, Rodney J. Douglas
+A High Performance k-NN Classifier Using a Binary Correlation Matrix Memory Ping Zhou, Jim Austin, John Kennedy
+An Entropic Estimator for Structure Discovery Matthew Brand
+Coding Time-Varying Signals Using Sparse, Shift-Invariant Representations Michael S. Lewicki, Terrence J. Sejnowski
+Controlling the Complexity of HMM Systems by Regularization Christoph Neukirchen, Gerhard Rigoll
+Maximum-Likelihood Continuity Mapping (MALCOM)  An Alternative to HMMs David A. Nix, John E. Hogden
+Markov Processes on Curves for Automatic Speech Recognition Lawrence K. Saul, Mazin G. Rahim
+A Phase Space Approach to Minimax Entropy Learning and the Minutemax Approximations James M. Coughlan, Alan L. Yuille
+Example-Based Image Synthesis of Articulated Figures Trevor Darrell
+Learning to Estimate Scenes from Images William T. Freeman, Egon C. Pasztor
+Learning to Find Pictures of People Sergey Ioffe, David A. Forsyth
+Attentional Modulation of Human Pattern Discrimination Psychophysics Reproduced by a Quantitative Model Laurent Itti, Jochen Braun, Dale K. Lee, Christof Koch
+A V1 Model of Pop Out and Asymmetty in Visual Search Zhaoping Li
+Support Vector Machines Applied to Face Recognition P. Jonathon Phillips
+Learning Lie Groups for Invariant Visual Perception Rajesh P. N. Rao, Daniel L. Ruderman
+General-Purpose Localization of Textured Image Regions Ruth Rosenholtz
+Probabilistic Image Sensor Fusion Ravi K. Sharma, Todd K. Leen, Misha Pavel
+Orientation, Scale, and Discontinuity as Emergent Properties of Illusory Contour Shape Karvel K. Thornber, Lance R. Williams
+Classification in Non-Metric Spaces Daphna Weinshall, David W. Jacobs, Yoram Gdalyahu
+Making Templates Rotationally Invariant. An Application to Rotated Digit Recognition Shumeet Baluja
+Probabilistic Modeling for Face Orientation Discrimination  Learning from Labeled and Unlabeled Data Shumeet Baluja
+Adding Constrained Discontinuities to Gaussian Process Models of Wind Fields Dan Cornford, Ian T. Nabney, Christopher K. I. Williams
+Vertex Identification in High Energy Physics Experiments Gideon Dror, Halina Abramowicz, David Horn
+Familiarity Discrimination of Radar Pulses Eric Granger, Stephen Grossberg, Mark A. Rubin, William W. Streilein
+Fast Neural Network Emulation of Dynamical Systems for Computer Animation Radek Grzeszczuk, Demetri Terzopoulos, Geoffrey E. Hinton
+Call-Based Fraud Detection in Mobile Communication Networks Using a Hierarchical Regime-Switching Model Jaakko Hollmén, Volker Tresp
+Graph Matching for Shape Retrieval Benoit Huet, Andrew D. J. Cross, Edwin R. Hancock
+Scheduling Straight-Line Code Using Reinforcement Learning and Rollouts Amy McGovern, J. Eliot B. Moss
+Bayesian Modeling of Facial Similarity Baback Moghaddam, Tony Jebara, Alex Pentland
+Reinforcement Learning for Trading John E. Moody, Matthew Saffell
+Graphical Models for Recognizing Human Interactions Nuria Oliver, Barbara Rosario, Alex Pentland
+Independent Component Analysis of Intracellular Calcium Spike Data Klaus Prank, Julia Börger, Alexander von zur Mühlen, Georg Brabant, Christof Schöfl
+Applications of Multi-Resolution Neural Networks to Mammography Clay Spence, Paul Sajda
+Robot Docking Using Mixtures of Gaussians Matthew M. Williamson, Roderick Murray-Smith, Volker Hansen
+Using Collective Intelligence to Route Internet Traffic David Wolpert, Kagan Tumer, Jeremy Frank
+Robust, Efficient, Globally-Optimized Reinforcement Learning with the Parti-Game Algorithm Mohammad A. Al-Ansari, Ronald J. Williams
+Gradient Descent for General Reinforcement Learning Leemon C. Baird III, Andrew W. Moore
+Non-Linear PI Control Inspired by Biological Control Systems Lyndon J. Brown, Gregory E. Gonye, James S. Schwaber
+Optimizing Admission Control while Ensuring Quality of Service in Multimedia Networks via Reinforcement Learning Timothy X. Brown, Hui Tong, Satinder P. Singh
+Viewing Classifier Systems as Model Free Learning in POMDPs Akira Hayashi, Nobuo Suematsu
+Finite-Sample Convergence Rates for Q-Learning and Indirect Algorithms Michael J. Kearns, Satinder P. Singh
+Exploring Unknown Environments with Real-Time Search or Reinforcement Learning Sven Koenig
+The Effect of Eligibility Traces on Finding Optimal Memoryless Policies in Partially Observable Markov Decision Processes John Loch
+Learning Instance-Independent Value Functions to Enhance Local Search Robert Moll, Andrew G. Barto, Theodore J. Perkins, Richard S. Sutton
+Barycentric Interpolators for Continuous Space and Time Reinforcement Learning Rémi Munos, Andrew W. Moore
+Risk Sensitive Reinforcement Learning Ralph Neuneier, Oliver Mihatsch
+Coordinate Transformation Learning of Hand Position Feedback Controller by Using Change of Position Error Norm Eimei Oyama, Susumu Tachi
+Learning Macro-Actions in Reinforcement Learning Jette Randlov
+Reinforcement Learning Based on On-Line EM Algorithm Masa-aki Sato, Shin Ishii
+A Reinforcement Learning Algorithm in Partially Observable Environments Using Short-Term Memory Nobuo Suematsu, Akira Hayashi
+Improved Switching among Temporally Abstract Actions Richard S. Sutton, Satinder P. Singh, Doina Precup, Balaraman Ravindran
+Experimental Results on Learning Stochastic Memoryless Policies for Partially Observable Markov Decision Processes John K. Williams, Satinder P. Singh

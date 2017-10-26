@@ -1,0 +1,158 @@
+Autoencoders, Minimum Description Length and Helmholtz Free Energy Geoffrey E. Hinton, Richard S. Zemel
+Developing Population Codes by Minimizing Description Length Richard S. Zemel, Geoffrey E. Hinton
+A Unified Gradient-Descent Clustering Architecture for Finite State Machine Induction Sreerupa Das, Michael C. Mozer
+Unsupervised Learning of Mixtures of Multiple Causes in Binary Data Eric Saund
+Fast Pruning Using Principal Components Asriel U. Levin, Todd K. Leen, John E. Moody
+Surface Learning with Applications to Lipreading Christoph Bregler, Stephen M. Omohundro
+When will a Genetic Algorithm Outperform Hill Climbing Melanie Mitchell, John H. Holland, Stephanie Forrest
+Hoeffding Races  Accelerating Model Selection Search for Classification and Function Approximation Oded Maron, Andrew W. Moore
+Grammatical Inference by Attentional Control of Synchronization in an Oscillating Elman Network Bill Baird, Todd Troyer, Frank Eeckman
+Credit Assignment through Time  Alternatives to Backpropagation Yoshua Bengio, Paolo Frasconi
+A Local Algorithm to Learn Trajectories with Stochastic Neural Networks Javier R. Movellan
+Structural and Behavioral Evolution of Recurrent Networks Gregory M. Saunders, Peter J. Angeline, Jordan B. Pollack
+Clustering with a Domain-Specific Distance Measure Steven Gold, Eric Mjolsness, Anand Rangarajan
+Central and Pairwise Data Clustering by Competitive Neural Networks Joachim Buhmann, Thomas Hofmann
+Learning Classification with Unlabeled Data Virginia R. de Sa
+Supervised learning from incomplete data via an EM approach Zoubin Ghahramani, Michael I. Jordan
+Training Neural Networks with Deficient Data Volker Tresp, Subutai Ahmad, Ralph Neuneier
+Unsupervised Parallel Feature Extraction from First Principles Mats Österberg, Reiner Lenz
+Two Iterative Algorithms for Computing the Singular Value Decomposition from Input Output Samples Terence D. Sanger
+Fast Non-Linear Dimension Reduction Nanda Kambhatla, Todd K. Leen
+Assessing the Quality of Learned Local Models Stefan Schaal, Christopher G. Atkeson
+Efficient Computation of Complex Distance Metrics Using Hierarchical Filtering Patrice Y. Simard
+The Power of Amnesia Dana Ron, Yoram Singer, Naftali Tishby
+Locally Adaptive Nearest Neighbor Algorithms Dietrich Wettschereck, Thomas G. Dietterich
+Robust Parameter Estimation and Model Selection for Neural Network Regression Yong Liu
+Bayesian Backpropagation Over I-O Functions Rather Than Weights David H. Wolpert
+Bayesian Backprop in Action  Pruning, Committees, Error Bars and an Application to Spectroscopy Hans Henrik Thodberg
+A Comparison of Dynamic Reposing and Tangent Distance for Drug Activity Prediction Thomas G. Dietterich, Ajay N. Jain, Richard H. Lathrop, Tomás Lozano-Pérez
+Combined Neural Networks for Time Series Analysis Iris Ginzburg, David Horn
+Backpropagation without Multiplication Patrice Y. Simard, Hans Peter Graf
+A Comparative Study of a Modified Bumptree Neural Network with Radial Basis Function Networks and the Standard Multi Layer Perceptron Richard T. J. Bostock, Alan J. Harget
+Adaptive knot Placement for Nonparametric Regression Hossein L. Najafi, Vladimir Cherkassky
+Supervised Learning with Growing Cell Structures Bernd Fritzke
+Optimal Brain Surgeon  Extensions and performance comparisons Babak Hassibi, David G. Stork, Gregory Wolff
+Generation of Internal Representation by α-Transformation Ryotaro Kamimura
+Constructive Learning Using Internal Representation Conflicts Laurens R. Leerink, Marwan A. Jabri
+Learning in Compositional Hierarchies  Inducing the Structure of Objects from Data Joachim Utans
+An Optimization Method of Layered Neural Networks based on the Modified Information Criterion Sumio Watanabe
+Optimal Stopping and Effective Machine Complexity in Learning Changfeng Wang, Santosh S. Venkatesh, J. Stephen Judd
+Agnostic PAC-Learning of Functions on Analog Neural Nets Wolfgang Maass
+How to Choose an Activation Function H. N. Mhaskar, C. A.. Micchelli
+Learning Curves  Asymptotic Values and Rate of Convergence Corinna Cortes, L. D. Jackel, Sara A. Solla, Vladimir Vapnik, John S. Denker
+Recovering a Feed-Forward Net From Its Output Charles Fefferman, Scott Markel
+Use of Bad Training Data for Better Predictions Tal Grossman, Alan Lapedes
+Hoo Optimality Criteria for LMS and Backpropagation Babak Hassibi, Ali H. Sayed, Thomas Kailath
+Bounds on the complexity of recurrent neural network implementations of finite state machines Bill G. Horne, Don R. Hush
+Generalization Error and the Expected Network Complexity Chuanyi Ji
+Counting function theorem for multi-layer networks Adam Kowalczyk
+Backpropagation Convergence Via Deterministic Nonmonotone Perturbed Minimization O. L. Mangasarian, M. V. Solodov
+Cross-Validation Estimates IMSE Mark Plutowski, Shinichi Sakata, Halbert White
+Discontinuous Generalization in Large Committee Machines H. Schwarze, J. Hertz
+Non-Linear Statistical Analysis and Self-Organizing Hebbian Networks Jonathan L. Shapiro, Adam Prügel-Bennett
+Structured Machine Learning for 'Soft' Classification with Smoothing Spline ANOVA and Stacked Tuning, Testing and Evaluation Grace Wahba, Yuedong Wang, Chong Gu, Ronald Klein, MD, Barbara Klein, MD
+Solvable Models of Artificial Neural Networks Sumio Watanabe
+On the Non-Existence of a Universal Learning Algorithm for Recurrent Neural Networks Herbert Wiklicky
+The Statistical Mechanics of k-Satisfaction Scott Kirkpatrick, Géza Györgyi, Naftali Tishby, Lidror Troyansky
+Coupled Dynamics of Fast Neurons and Slow Interactions A.C.C. Coolen, R. W. Penney, D. Sherrington
+Observability of Neural Network Behavior Max Garzon, Fernanda Botelho
+How to Describe Neuronal Activity  Spikes, Rates, or Assemblies  Wulfram Gerstner, J. Leo van Hemmen
+Correlation Functions in a Large Stochastic Neural Network Iris Ginzburg, Haim Sompolinsky
+Optimal Stochastic Search and Adaptive Momentum Todd K. Leen, Genevieve B. Orr
+Optimal Signalling in Attractor Neural Networks Isaac Meilijson, Eytan Ruppin
+Asynchronous Dynamics of Continuous Time Neural Networks Xin Wang, Qingnan Li, Edward K. Blum
+Fool's Gold  Extracting Finite State Machines from Recurrent Network Dynamics John F. Kolen
+Dynamic Modulation of Neurons and Networks Eve Marder
+Amplifying and Linearizing Apical Synaptic Inputs to Cortical Pyramidal Cells Öjvind Bernander, Christof Koch, Rodney J. Douglas
+Odor Processing in the Bee  A Preliminary Study of the Role of Central Input to the Antennal Lobe Christiane Linster, David Marsan, Claudine Masson, Michel Kerszberg
+Lower Boundaries of Motoneuron Desynchronization via Renshaw Interneurons Mitchell Gil Maltenfort, Robert E. Druzinsky, C. J. Heckman, W. Zev Rymer
+Development of Orientation and Ocular Dominance Columns in Infant Macaques Klaus Obermayer, Lynne Kiorpes, Gary G. Blasdel
+Statistics of Natural Images  Scaling in the Woods Daniel L. Ruderman, William Bialek
+Dopaminergic Neuromodulation Brings a Dynamical Plasticity to the Retina Eric Boussard, Jean-François Vibert
+A Hodgkin-Huxley Type Neuron Model That Learns Slow Non-Spike Oscillation Kenji Doya, Allen I. Selverston, Peter F. Rowat
+Directional Hearing by the Mauthner System Audrey L. Guzik, Robert C. Eaton
+An Analog VLSI Saccadic Eye Movement System Timothy K. Horiuchi, Brooks Bishofberger, Christof Koch
+Bayesian Modeling and Classification of Neural Signals Michael S. Lewicki
+Foraging in an Uncertain Environment Using Predictive Hebbian Learning P. Read Montague, Peter Dayan, Terrence J. Sejnowski
+A Connectionist Model of the Owl's Sound Localization System Daniel J. Rosen, David E. Rumelhart, Eric I. Knudsen
+Optimal Unsupervised Motor Learning Predicts the Internal Representation of Barn Owl Head Movements Terence D. Sanger
+An Analog VLSI Model of Central Pattern Generation in the Leech Micah S. Siegel
+Synchronization, oscillations, and 1 f noise in networks of spiking neurons Martin Stemmler, Marius Usher, Christof Koch, Zeev Olami
+Transition Point Dynamic Programming Kenneth M. Buckland, Peter D. Lawrence
+Exploiting Chaos to Control the Future Gary W. Flake, Guo-Zhen Sun, Yee-Chun Lee
+Robust Reinforcement Learning in Motion Planning Satinder P. Singh, Andrew G. Barto, Roderic Grupen, Christopher Connolly
+Using Local Trajectory Optimizers to Speed Up Global Optimization in Dynamic Programming Christopher G. Atkeson
+Packet Routing in Dynamically Changing Networks  A Reinforcement Learning Approach Justin A. Boyan, Michael L. Littman
+Neural Network Exploration Using Optimal Experiment Design David A. Cohn
+Monte Carlo Matrix Inversion and Reinforcement Learning Andrew Barto, Michael Duff
+Convergence of Indirect Adaptive Asynchronous Value Iteration Algorithms Vijaykumar Gullapalli, Andrew G. Barto
+Convergence of Stochastic Iterative Dynamic Programming Algorithms Tommi Jaakkola, Michael I. Jordan, Satinder P. Singh
+The Parti-Game Algorithm for Variable Resolution Reinforcement Learning in Multidimensional State-Spaces Andrew W. Moore
+Mixtures of Controllers for Jump Linear and Non-Linear Plants Timothy W. Cacciatore, Steven J. Nowlan
+A Computational Model for Cursive Handwriting Based on the Minimization Principle Yasuhiro Wada, Yasuharu Koike, Eric Vatikiotis-Bateson, Mitsuo Kawato
+Signature Verification using a  Siamese  Time Delay Neural Network Jane Bromley, Isabelle Guyon, Yann LeCun, Eduard Säckinger, Roopak Shah
+Postal Address Block Location Using a Convolutional Locator Network Ralph Wolf, John C. Platt
+Non-Intrusive Gaze Tracking Using Artificial Neural Networks Shumeet Baluja, Dean Pomerleau
+Hidden Markov Models for Human Genes Pierre Baldi, Søren Brunak, Yves Chauvin, Jacob Engelbrecht, Anders Krogh
+Illumination-Invariant Face Recognition with a Contrast Sensitive Silicon Retina Joachim M. Buhmann, Martin Lades, Frank Eeckman
+Recognition-based Segmentation of On-Line Cursive Handwriting Nicholas S. Flann
+Address Block Location with a Neural Net System Hans Peter Graf, Eric Cosatto
+Identifying Fault-Prone Software Modules Using Feed-Forward Networks  A Case Study N. Karunanithi
+Comparison Training for a Rescheduling Problem in Neural Networks Didier Keymeulen, Martine de Gerlache
+Neural Network Definitions of Highly Predictable Protein Secondary Structure Classes Alan Lapedes, Evan Steeg, Robert Farber
+Temporal Difference Learning of Position Evaluation in the Game of Go Nicol N. Schraudolph, Peter Dayan, Terrence J. Sejnowski
+Probabilistic Anomaly Detection in Dynamic Systems Padhraic Smyth
+Decoding Cursive Scripts Yoram Singer, Naftali Tishby
+A Massively-Parallel SIMD Processor for Neural Network and Machine Vision Applications Michael A. Glover, W. Thomas Miller III
+A Hybrid Radial Basis Function Neurocomputer and Its Applications Steven S. Watkins, Paul M. Chau, Raoul Tawel, Bjorn Lambrigtsen, Mark Plutowski
+A Learning Analog Neural Network Chip with Continuous-Time Recurrent Dynamics Gert Cauwenberghs
+VLSI Phase Locking Architectures for Feature Linking in Multiple Target Tracking Systems Andreas G. Andreou, Thomas G. Edwards
+WATTLE  A Trainable Gain Analogue VLSI Neural Network Richard Coggins, Marwan Jabri
+The  Softmax  Nonlinearity  Derivation Using Statistical Mechanics and Useful Properties as a Multiterminal Analog Circuit Element I. M. Elfadel, J. L. Wyatt, Jr.
+High Performance Neural Net Simulation on a Multiprocessor System with  Intelligent  Communication Urs A. Müller, Michael Kocheisen, Anton Gunzinger
+Digital Boltzmann VLSI for constraint satisfaction and learning Michael Murray, Ming-Tak Leung, Kan Boonyanit, Kong Kritayakirana, James B. Burg, Gregory J. Wolff, Tokahiro Watanabe, Edward Schwartz, David G. Stork, Allen M. Peterson
+Efficient Simulation of Biological Neural Networks on Massively Parallel Supercomputers with Hypercube Architecture Ernst Niebur, Dean Brettle
+Learning Complex Boolean Functions  Algorithms and Applications Arlindo L. Oliveira, Alberto Sangiovanni-Vincentelli
+Implementing Intelligence on Silicon Using Neuron-Like Functional MOS Transistors Tadashi Shibata, Koji Kotani, Takeo Yamashita, Hiroshi Ishii, Hideo Kosaka, Tadahiro Ohmi
+Event-Driven Simulation of Networks of Spiking Neurons Lloyd Watts
+Globally Trained Handwritten Word Recognizer using Spatial Representation, Convolutional Neural Networks, and Hidden Markov Models Yoshua Bengio, Yann LeCun, Donnie Henderson
+Classifying Hand Gestures with a View-Based Distributed Representation Trevor J. Darrell, Alex P. Pentland
+A Network Mechanism for the Determination of Shape-From-Texture Kô Sakai, Leif H. Finkel
+Feature Densities are Required for Computing Feature Correspondences Subutai Ahmad
+The Role of MT Neuron Receptive Field Surrounds in Computing Object Shape from Velocity Fields G. T. Buracas, T. D. Albright
+Resolving motion ambiguities K. I. Diamantaras, D. Geiger
+Two-Dimensional Object Localization by Coarse-to-Fine Correlation Matching Chien-Ping Lu, Eric Mjolsness
+Dual Mechanisms for Neural Binding and Segmentation Paul Sajda, Leif H. Finkel
+Bayesian Self-Organization Alan L. Yuille, Stelios M. Smirnakis, Lei Xu
+Analysis of Short Term Memories for Neural Networks Jose C. Principe, Hui-H. Hsu, Jyh-Ming Kuo
+Figure of Merit Training for Detection and Spotting Eric I. Chang, Richard P. Lippmann
+Lipreading by neural networks  Visual preprocessing, learning, and sensory integration Gregory J. Wolff, K. Venkatesh Prasad, David G. Stork, Marcus Hennecke
+Speaker Recognition Using Neural Tree Networks Kevin R. Farrell, Richard J. Mammone
+Inverse Dynamics of Speech Motor Control Makoto Hirayama, Eric Vatikiotis-Bateson, Mitsuo Kawato
+Learning Temporal Dependencies in Connectionist Speech Recognition Steve Renals, Mike Hochberg, Tony Robinson
+Segmental Neural Net Optimization for Continuous Speech Recognition Ying Zhao, Richard Schwartz, John Makhoul, George Zavaliagkos
+Connectionist Models for Auditory Scene Analysis Richard O. Duda
+Computational Elements of the Adaptive Controller of the Human Arm Reza Shadmehr, Ferdinando A. Mussa-Ivaldi
+Tonal Music as a Componential Code  Learning Temporal Relationships Between and Within Pitch and Timing Components Catherine Stevens, Janet Wiles
+GDS  Gradient Descent Generation of Symbolic Classification Rules Reinhard Blasig
+Emergence of Global Structure from Local Associations Thea B. Ghiselli-Crippa, Paul W. Munro
+Estimating analogical similarity by dot-products of Holographic Reduced Representations Tony A. Plate
+Analyzing Cross-Connected Networks Thomas R. Shultz, Jeffrey L. Elman
+Encoding Labeled Graphs by Labeling RAAM Alessandro Sperduti
+Learning Mackey-Glass from 25 examples, Plus or Minus 2 Mark Plutowski, Garrison Cottrell, Halbert White
+Classification of Multi-Spectral Pixels by the Binary Diamond Neural Network Yehuda Salu
+Classification of Electroencephalogram using Artificial Neural Networks A C Tsoi, D S C So, A Sergejew
+Complexity Issues in Neural Computation and Learning V. P. Roychowdhury, K.-Y. Siu
+Connectionism for Music and Audition Andreas S. Weigend
+Memory-Based Methods for Regression and Classification Thomas G. Dietterich, Dietrich Wettschereck, Chris G. Atkeson, Andrew W. Moore
+Neurobiology, Psychophysics, and Computational Models of Visual Attention Ernst Niebur, Bruno A. Olshausen
+Robot Learning  Exploration and Continuous Domains David A. Cohn
+Stability and Observability Max H. Garzon, Fernanda Botelho
+What Does the Hippocampus Compute   A Precis of the 1993 NIPS Workshop Mark A. Gluck
+Catastrophic interference in connectionist networks  Can It Be predicted, can It be prevented  Robert M. French
+Connectionist Modeling and Parallel Architectures Joachim Diederich, Ah Chung Tsoi
+Functional Models of Selective Attention and Context Dependency Thomas H. Hildebrandt
+Learning in Computer Vision and Image Understanding Hayit Greenspan
+Neural Network Methods for Optimization Problems Arun Jagota
+Processing of Visual and Auditory Space and Its Modification by Experience Josef P. Rauschecker, Terrence J. Sejnowski
+Putting It All Together  Methods for Combining Neural Networks Michael P. Perrone

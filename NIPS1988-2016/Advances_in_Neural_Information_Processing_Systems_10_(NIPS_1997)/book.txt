@@ -1,0 +1,150 @@
+Synchronized Auditory and Cognitive 40 Hz Attentional Streams, and the Impact of Rhythmic Expectation on Auditory Scene Analysis Bill Baird
+On Parallel versus Serial Processing  A Computational Study of Visual Search Eyal Cohen, Eytan Ruppin
+Task and Spatial Frequency Effects on Face Specialization Matthew N. Dailey, Garrison W. Cottrell
+Neural Basis of Object-Centered Representations Sophie Denève, Alexandre Pouget
+A Neural Network Model of Naive Preference and Filial Imprinting in the Domestic Chick Lucy E. Hadden
+Adaptation in Speech Motor Control John F. Houde, Michael I. Jordan
+Learning Human-like Knowledge by Singular Value Decomposition  A Progress Report Thomas K. Landauer, Darrell Laham, Peter W. Foltz
+Multi-modular Associative Memory Nir Levy, David Horn, Eytan Ruppin
+Serial Order in Reading Aloud  Connectionist Models and Neighborhood Structure Jeanne C. Milostan, Garrison W. Cottrell
+A Superadditive-Impairment Theory of Optic Aphasia Michael C. Mozer, Mark Sitton, Martha J. Farah
+A Hippocampal Model of Recognition Memory Randall C. O'Reilly, Kenneth A. Norman, James L. McClelland
+Correlates of Attention in a Model of Dynamic Visual Recognition Rajesh P. N. Rao
+Recurrent Neural Networks Can Learn to Implement Symbol-Sensitive Counting Paul Rodriguez, Janet Wiles
+Comparison of Human and Machine Word Recognition Markus Schenkel, Cyril Latimer, Marwan A. Jabri
+Coding of Naturalistic Stimuli by Auditory Midbrain Neurons Hagai Attias, Christoph E. Schreiner
+Refractoriness and Neural Precision Michael J. Berry II, Markus Meister
+Statistical Models of Conditioning Peter Dayan, Theresa Long
+Characterizing Neurons in the Primary Auditory Cortex of the Awake Primate Using Reverse Correlation R. Christopher DeCharms, Michael Merzenich
+Using Helmholtz Machines to Analyze Multi-channel Neuronal Recordings Virginia R. de Sa, R. Christopher DeCharms, Michael Merzenich
+Instabilities in Eye Movement Control  A Model of Periodic Alternating Nystagmus Ernst R. Dow, Thomas J. Anastasio
+Hippocampal Model of Rat Spatial Abilities Using Temporal Difference Learning David J. Foster, Richard G. M. Morris, Peter Dayan
+Gradients for Retinotectal Mapping Geoffrey J. Goodhill
+A Mathematical Model of Axon Guidance by Diffusible Factors Geoffrey J. Goodhill
+Computing with Action Potentials John J. Hopfield, Carlos D. Brody, Sam Roweis
+A Model of Early Visual Processing Laurent Itti, Jochen Braun, Dale K. Lee, Christof Koch
+Perturbative M-Sequences for Auditory Systems Identification Mark Kvale, Christoph E. Schreiner
+Effects of Spike Timing Underlying Binocular Integration and Rivalry in a Neural Model of Early Visual Cortex Erik D. Lumer
+Dynamic Stochastic Synapses as Computational Units Wolfgang Maass, Anthony M. Zador
+Synaptic Transmission  An Information-Theoretic Perspective Amit Manwani, Christof Koch
+Toward a Single-Cell Account for Binocular Disparity Tuning  An Energy Model May Be Hiding in Your Dendrites Bartlett W. Mel, Daniel L. Ruderman, Kevin A. Archie
+Just One View  Invariances in Inferotemporal Cell Tuning Maximilian Riesenhuber, Tomaso Poggio
+On the Separation of Signals from Neighboring Cells in Tetrode Recordings Maneesh Sahani, John S. Pezaris, Richard A. Andersen
+Independent Component Analysis for Identification of Artifacts in Magnetoencephalographic Recordings Ricardo Vigário, Veikko Jousmäki, Matti Hämäläinen, Riitta Hari, Erkki Oja
+Modeling Complex Cells in an Awake Macaque during Natural Image Viewing William E. Vinje, Jack L. Gallant
+The Canonical Distortion Measure in Feature Space and 1-NN Classification Jonathan Baxter, Peter L. Bartlett
+Multiple Threshold Neural Logic Vasken Bohossian, Jehoshua Bruck
+Generalization in Decision Trees and DNF  Does Size Matter  Mostefa Golea, Peter L. Bartlett, Wee Sun Lee, Llew Mason
+Selecting Weighting Factors in Logarithmic Opinion Pools Tom Heskes
+New Approximations of Differential Entropy for Independent Component Analysis and Projection Pursuit Aapo Hyvärinen
+Boltzmann Machine Learning Using Mean Field Theory and Linear Response Correction Hilbert J. Kappen, Francisco de Borja Rodríguez Ortiz
+Relative Loss Bounds for Multidimensional Regression Problems Jyrki Kivinen, Manfred K. Warmuth
+Asymptotic Theory for Regularization  One-Dimensional Linear Case Petri Koistinen
+Two Approaches to Optimal Annealing Todd K. Leen, Bernhard Schottky, David Saad
+Structural Risk Minimization for Nonparametric Time Series Prediction Ron Meir
+Analytical Study of the Interplay between Architecture and Predictability Avner Priel, Ido Kanter, David A. Kessler
+Globally Optimal On-line Learning Rules Magnus Rattray, David Saad
+Minimax and Hamiltonian Dynamics of Excitatory-Inhibitory Networks H. Sebastian Seung, Tom J. Richardson, J. C. Lagarias, John J. Hopfield
+Data-Dependent Structural Risk Minimization for Perceptron Decision Trees John Shawe-Taylor, Nello Cristianini
+From Regularization Operators to Support Vector Kernels Alex J. Smola, Prof. Bernhard Schölkopf
+The Rectified Gaussian Distribution Nicholas D. Socci, Daniel D. Lee, H. Sebastian Seung
+On-line Learning from Finite Training Sets in Nonlinear Networks Peter Sollich, David Barber
+Competitive On-line Linear Regression Volodya Vovk
+On the Infeasibility of Training Neural Networks with Small Squared Errors Van H. Vu
+The Storage Capacity of a Fully-Connected Committee Machine Yuansheng Xiong, Chulan Kwon, Jong-Hoon Oh
+The Efficiency and the Robustness of Natural Gradient Descent Learning Rule Howard Hua Yang, Shun-ichi Amari
+Ensemble Learning for Multi-Layer Networks David Barber, Christopher M. Bishop
+Radial Basis Functions  A Bayesian Treatment David Barber, Bernhard Schottky
+Shared Context Probabilistic Transducers Yoshua Bengio, Samy Bengio, Jean-Franc Isabelle, Yoram Singer
+Approximating Posterior Distributions in Belief Networks Using Mixtures Christopher M. Bishop, Neil D. Lawrence, Tommi Jaakkola, Michael I. Jordan
+Receptive Field Formation in Natural Scene Environments  Comparison of Single Cell Learning Rules Brian S. Blais, Nathan Intrator, Harel Z. Shouval, Leon N. Cooper
+An Annealed Self-Organizing Map for Source Channel Coding Matthias Burger, Thore Graepel, Klaus Obermayer
+Incorporating Test Inputs into Learning Zehra Cataltepe, Malik Magdon-Ismail
+On Efficient Heuristic Ranking of Hypotheses Steve A. Chien, Andre Stechert, Darren Mutz
+Learning to Order Things William W. Cohen, Robert E. Schapire, Yoram Singer
+Regularisation in Sequential Learning Algorithms João F. G. de Freitas, Mahesan Niranjan, Andrew H. Gee
+Agnostic Classification of Markovian Sequences Ran El-Yaniv, Shai Fine, Naftali Tishby
+Ensemble and Modular Approaches for Face Detection  A Comparison Raphaël Feraud, Olivier Bernier
+A Revolution  Belief Propagation in Graphs with Cycles Brendan J. Frey, David J. C. MacKay
+Hierarchical Non-linear Factor Analysis and Topographic Maps Zoubin Ghahramani, Geoffrey E. Hinton
+Regression with Input-dependent Noise  A Gaussian Process Treatment Paul W. Goldberg, Christopher K. I. Williams, Christopher M. Bishop
+Linear Concepts and Hidden Variables  An Empirical Study Adam J. Grove, Dan Roth
+Classification by Pairwise Coupling Trevor Hastie, Robert Tibshirani
+Unsupervised On-line Learning of Decision Trees for Hierarchical Data Analysis Marcus Held, Joachim M. Buhmann
+Nonlinear Markov Networks for Continuous Variables Reimar Hofmann, Volker Tresp
+Active Data Clustering Thomas Hofmann, Joachim M. Buhmann
+Function Approximation with the Sweeping Hinge Algorithm Don R. Hush, Fernando Lozano, Bill G. Horne
+The Error Coding and Substitution PaCTs Gareth James, Trevor Hastie
+S-Map  A Network with a Simple Self-Organization Algorithm for Generative Topographic Mappings Kimmo Kiviluoto, Erkki Oja
+Learning Nonlinear Overcomplete Representations for Efficient Coding Michael S. Lewicki, Terrence J. Sejnowski
+Factorizing Multivariate Function Classes Juan K. Lin
+A Framework for Multiple-Instance Learning Oded Maron, Tomás Lozano-Pérez
+An Application of Reversible-Jump MCMC to Multivariate Spherical Gaussian Mixtures Alan D. Marrs
+Estimating Dependency Structure as a Hidden Variable Marina Meila, Michael I. Jordan
+Combining Classifiers Using Correspondence Analysis Christopher J. Merz
+Learning Path Distributions Using Nonequilibrium Diffusion Networks Paul Mineiro, Javier R. Movellan, Ruth J. Williams
+Learning Generative Models with the Up Propagation Algorithm Jong-Hoon Oh, H. Sebastian Seung
+An Incremental Nearest Neighbor Algorithm with Queries Joel Ratsaby
+RCC Cannot Compute Certain FSA, Even with Arbitrary Transfer Functions Mark Ring
+EM Algorithms for PCA and SPCA Sam T. Roweis
+Local Dimensionality Reduction Stefan Schaal, Sethu Vijayakumar, Christopher G. Atkeson
+Prior Knowledge in Support Vector Kernels Prof. Bernhard Schölkopf, Patrice Simard, Alex J. Smola, Vladimir Vapnik
+Training Methods for Adaptive Boosting of Neural Networks Holger Schwenk, Yoshua Bengio
+Learning Continuous Attractors in Recurrent Networks H. Sebastian Seung
+Monotonic Networks Joseph Sill
+Stacked Density Estimation Padhraic Smyth, David Wolpert
+Bidirectional Retrieval from Associative Memory Friedrich T. Sommer, Günther Palm
+Mapping a Manifold of Perceptual Observations Joshua B. Tenenbaum
+Graph Matching with Hierarchical Discrete Relaxation Richard C. Wilson, Edwin R. Hancock
+Multiplicative Updating Rule for Blind Separation Derived from the Method of Scoring Howard Hua Yang
+A 1, 000-Neuron System with One Million 7-bit Physical Interconnections Yuzo Hirai
+Silicon Retina with Adaptive Filtering Properties Shih-Chii Liu
+Analog VLSI Model of Intersegmental Coordination with Nearest-Neighbor Coupling Girish N. Patel, Jeremy H. Holleman, Stephen P. DeWeerth
+An Analog VLSI Neural Network for Phase-based Machine Vision Bertram Emil Shi, Kwok Fai Hui
+Analysis of Drifting Dynamics with Neural Network Hidden Markov Models Jens Kohlmorgen, Klaus-Robert Müller, Klaus Pawelzik
+Bayesian Robustification for Audio Visual Fusion Javier R. Movellan, Paul Mineiro
+Modeling Acoustic Correlations by Factor Analysis Lawrence K. Saul, Mazin G. Rahim
+Blind Separation of Radio Signals in Fading Channels Kari Torkkola
+Hybrid NN HMM-Based Speech Recognition with a Discriminant Neural Feature Extraction Daniel Willett, Gerhard Rigoll
+A Non-Parametric Multi-Scale Statistical Model for Natural Images Jeremy S. De Bonet, Paul A. Viola
+Recovering Perspective Pose with a Dual Step EM Algorithm Andrew D. J. Cross, Edwin R. Hancock
+Bayesian Model of Surface Perception William T. Freeman, Paul A. Viola
+Features as Sufficient Statistics Davi Geiger, Archisman Rudra, Laurance T. Maloney
+Detection of First and Second Order Motion Alexander Grunewald, Heiko Neumann
+A Simple and Fast Neural Network Approach to Stereovision Rolf D. Henkel
+Visual Navigation in a Robot Using Zig-Zag Behavior M. Anthony Lewis
+2D Observers for Human 3D Object Recognition  Zili Liu, Daniel Kersten
+Self-similarity Properties of Natural Images Antonio Turiel, Germán Mato, Néstor Parga, Jean-Pierre Nadal
+Multiresolution Tangent Distance for Affine-invariant Classification Nuno Vasconcelos, Andrew Lippman
+Phase Transitions and the Perceptual Organization of Video Sequences Yair Weiss
+Using Expectation to Guide Processing  A Study of Three Real-World Applications Shumeet Baluja
+Structure Driven Image Database Retrieval Jeremy S. De Bonet, Paul A. Viola
+A General Purpose Image Processing Chip  Orientation Detection Ralph Etienne-Cummings, Donghui Cai
+An Analog VLSI Model of the Fly Elementary Motion Detector Reid R. Harrison, Christof Koch
+MELONET I  Neural Nets for Inventing Baroque-Style Chorale Variations Dominik Hörnel
+Extended ICA Removes Artifacts from Electroencephalographic Recordings Tzyy-Ping Jung, Colin Humphries, Te-Won Lee, Scott Makeig, Martin J. McKeown, Vicente Iragui, Terrence J. Sejnowski
+A Generic Approach for Identification of Event Related Brain Potentials via a Competitive Neural Network Structure Daniel H. Lange, Hava T. Siegelmann, Hillel Pratt, Gideon F. Inbar
+A Neural Network Based Head Tracking System Daniel D. Lee, H. S. Seung
+Wavelet Models for Video Time-Series Sheng Ma, Chuanyi Ji
+Reinforcement Learning for Call Admission Control and Routing in Integrated Service Networks Peter Marbach, Oliver Mihatsch, Miriam Schulte, John N. Tsitsiklis
+Learning to Schedule Straight-Line Code J. Eliot B. Moss, Paul E. Utgoff, John Cavazos, Doina Precup, Darko Stefanovic, Carla E. Brodley, David Scheeff
+Enhancing Q-Learning for Optimal Asset Allocation Ralph Neuneier
+Intrusion Detection with Neural Networks Jake Ryan, Meng-Jang Lin, Risto Miikkulainen
+Incorporating Contextual Information in White Blood Cell Identification Xubo B. Song, Yaser S. Abu-Mostafa, Joseph Sill, Harvey Kasdan
+Bach in a Box - Real-Time Harmony Randall R. Spangler, Rodney M. Goodman, Jim Hawkins
+Experiences with Bayesian Learning in a Real World Application Peter Sykacek, Georg Dorffner, Peter Rappelsberger, Josef Zeitlhofer
+A Solution for Missing Data in Recurrent Neural Networks with an Application to Blood Glucose Prediction Volker Tresp, Thomas Briegel
+Use of a Multi-Layer Perceptron to Predict Malignancy in Ovarian Tumors Herman Verrelst, Yves Moreau, Joos Vandewalle, Dirk Timmerman
+Modelling Seasonality and Trends in Daily Rainfall Data Peter M. Williams
+The Observer-Observation Dilemma in Neuro-Forecasting Hans-Georg Zimmermann, Ralph Neuneier
+Generalized Prioritized Sweeping David Andre, Nir Friedman, Ronald Parr
+Nonparametric Model-Based Reinforcement Learning Christopher G. Atkeson
+An Improved Policy Iteration Algorithm for Partially Observable MDPs Eric A. Hansen
+Automated Aircraft Recovery via Reinforcement Learning  Initial Experiments Jeffrey F. Monaco, David G. Ward, Andrew G. Barto
+Reinforcement Learning for Continuous Stochastic Control Problems Rémi Munos, Paul Bourgine
+Adaptive Choice of Grid and Time in Reinforcement Learning Stephan Pareigis
+Reinforcement Learning with Hierarchies of Machines Ronald Parr, Stuart J. Russell
+Multi-time Models for Temporally Abstract Planning Doina Precup, Richard S. Sutton
+How to Dynamically Merge Markov Decision Processes Satinder P. Singh, David Cohn
+The Asymptotic Convergence-Rate of Q-learning Csaba Szepesvári
+Hybrid Reinforcement Learning and Its Application to Biped Robot Control Satoshi Yamada, Akira Watanabe, Michio Nakashima

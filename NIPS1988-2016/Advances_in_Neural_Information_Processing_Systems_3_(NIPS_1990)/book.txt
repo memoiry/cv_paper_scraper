@@ -1,0 +1,143 @@
+Further Studies of a Model for the Development and Regeneration of Eye-Brain Maps Jack D. Cowan, A. E. Friedman
+Development and Spatial Structure of Cortical Feature Maps  A Model Study Klaus Obermayer, Helge Ritter, Klaus Schulten
+Interaction Among Ocularity, Retinotopy and On-center Off-center Pathways During Development Shigeru Tanaka
+Simple Spin Models for the Development of Ocular Dominance Columns and Iso-Orientation Patches J.D. Cowan, A. E. Friedman
+A Recurrent Neural Network Model of Velocity Storage in the Vestibulo-Ocular Reflex Thomas J. Anastasio
+Self-organization of Hebbian Synapses in Hippocampal Neurons Thomas H. Brown, Zachary F. Mainen, Anthony M. Zador, Brenda J. Claiborne
+Cholinergic Modulation May Enhance Cortical Associative Memory Function Michael E. Hasselmo, Brooke P. Anderson, James M. Bower
+Order Reduction for Dynamical Systems Describing the Behavior of Complex Neurons Thomas B. Kepler, L. F. Abbott, Eve Marder
+Stochastic Neurodynamics J.D. Cowan
+Dynamics of Learning in Recurrent Feature-Discovery Networks Todd K. Leen
+A Lagrangian Approach to Fixed Points Eric Mjolsness, Willard L. Miranker
+Associative Memory in a Network of `Biological' Neurons Wulfram Gerstner
+CAM Storage of Analog Patterns and Continuous Sequences with 3N2 Weights Bill Baird, Frank Eeckman
+Connection Topology and Dynamics in Lateral Inhibition Networks C.M Marcus, F. R. Waugh, R. M. Westervelt
+Shaping the State Space Landscape in Recurrent Networks Patrice Simard, Jean Pierre Raysz, Bernard Victorri
+Adjoint-Functions and Temporal Learning Algorithms in Neural Networks N. Toomarian, J. Barhen
+Phase-coupling in Two-Dimensional Networks of Interacting Oscillators Ernst Niebur, Daniel M. Kammen, Christof Koch, Daniel L. Ruderman, Heinz G. Schuster
+Oscillation Onset in Neural Delayed Feedback André Longtin
+Analog Computation at a Critical Point  A Novel Function for Neuronal Oscillations  Leonid Kruglyak, William Bialek
+Modeling Time Varying Systems Using Hidden Control Neural Architecture Esther Levin
+The Tempo 2 Algorithm  Adjusting Time-Delays By Supervised Learning Ulrich Bodenhausen, Alex Waibel
+A Theory for Neural Networks with Time Delays Bert de Vries, José Carlos Príncipe
+ART2 BP architecture for adaptive estimation of dynamic processes Einar Sørheim
+Statistical Mechanics of Temporal Association in Neural Networks Andreas V. M. Herz, Zhaoping Li, J. Leo van Hemmen
+Learning Time-varying Concepts Anthony Kuh, Thomas Petsche, Ronald L. Rivest
+The Recurrent Cascade-Correlation Architecture Scott E. Fahlman
+Continuous Speech Recognition by Linked Predictive Neural Networks Joe Tebelskis, Alex Waibel, Bojan Petek, Otto Schmidbauer
+A Recurrent Neural Network for Word Identification from Continuous Phoneme Strings Robert B. Allen, Candace A. Kamm
+Connectionist Approaches to the Use of Markov Models for Speech Recognition Hervé Bourlard, Nelson Morgan, Chuck Wooters
+Spoken Letter Recognition Mark Fanty, Ronald Cole
+Speech Recognition Using Demi-Syllable Neural Prediction Model Ken-ichi Iso, Takao Watanabe
+RecNorm  Simultaneous Normalisation and Classification applied to Speech Recognition John S. Bridle, Stephen J. Cox
+Exploratory Feature Extraction in Speech Signals Nathan Intrator
+Phonetic Classification and Recognition Using the Multi-Layer Perceptron Hong C. Leung, James R. Glass, Michael S. Phillips, Victor W. Zue
+From Speech Recognition to Spoken Language Understanding  The Development of the MIT SUMMIT and VOYAGER Systems Victor Zue, James Glass, David Goodine, Lynette Hirschman, Hong Leung, Michael Phillips, Joseph Polifroni, Stephanie Seneff
+Speech Recognition Using Connectionist Approaches Khalid Choukri
+Natural Dolphin Echo Recognition Using an Integrator Gateway Network Herbert L. Roitblat, Patrick W. B. Moore, Paul E. Nachtigall, Ralph H. Penner
+Signal Processing by Multiplexing and Demultiplexing in Neurons David C. Tam
+Applications of Neural Networks in Video Signal Processing John C. Pearson, Clay D. Spence, Ronald Sverdlove
+Discovering Viewpoint-Invariant Relationships That Characterize Objects Richard S. Zemel, Geoffrey E. Hinton
+A Neural Network Approach for Three-Dimensional Object Recognition Volker Tresp
+A Second-Order Translation, Rotation and Scale Invariant Neural Network Shelly D. D. Goggin, Kristina M. Johnson, Karl E. Gustafson
+Learning to See Rotation and Dilation with a Hebb Rule Martin I. Sereno, Margaret E. Sereno
+Stereopsis by a Neural Network Which Learns the Constraints Alireza Khotanzad, Ying-Wung Lee
+Grouping Contours by Iterated Pairing Network Amnon Shashua, Shimon Ullman
+Neural Dynamics of Motion Segmentation and Grouping Ennio Mingolla
+A Multiscale Adaptive Network Model of Motion Computation in Primates H. Taichi Wang, Bimal Mathur, Christof Koch
+Qualitative structure from motion Daphna Weinshall
+Optimal Sampling of Natural Images  A Design Principle for the Visual System William Bialek, Daniel L. Ruderman, A. Zee
+A VLSI Neural Network for Color Constancy Andrew W. Moore, John Allman, Geoffrey Fox, Rodney Goodman
+Optimal Filtering in the Salamander Retina Fred Rieke, W. Geoffrey Owen, William Bialek
+A four neuron circuit accounts for change sensitive inhibition in salamander retina Jeffrey L. Teeters, Frank H. Eeckman, Frank S. Werblin
+Feedback Synapse to Cone and Light Adaptation Josef Skrzypek
+An Analog VLSI Chip for Finding Edges from Zero-crossings Wyeth Bair, Christof Koch
+A Delay-Line Based Motion Detection Chip Tim Horiuchi, John Lazzaro, Andrew Moore, Christof Koch
+Neural Networks Structured for Control Application to Aircraft Landing Charles Schley, Yves Chauvin, Van Henkle, Richard Golden
+Real-time autonomous robot navigation using VLSI neural networks Lionel Tarassenko, Michael Brownlow, Gillian Marshall, Jan Tombs, Alan Murray
+Rapidly Adapting Artificial Neural Networks for Autonomous Navigation Dean Pomerleau
+Learning Trajectory and Force Control of an Artificial Muscle Arm by Parallel-hierarchical Neural Network Model Masazumi Katayama, Mitsuo Kawato
+Proximity Effect Corrections in Electron Beam Lithography Using a Neural Network Robert C. Frye, Kevin D. Cummings, Edward A. Rietman
+Planning with an Adaptive World Model Sebastian Thrun, Knut Möller, Alexander Linden
+A Connectionist Learning Control Architecture for Navigation Jonathan R. Bachrach
+Navigating through Temporal Difference Peter Dayan
+Integrated Modeling and Control Based on Reinforcement Learning and Dynamic Programming Richard S. Sutton
+A Reinforcement Learning Variant for Control Scheduling Aloke Guha
+Adaptive Range Coding Bruce E. Rosen, James M. Goodwin, Jacques J. Vidal
+Neural Network Implementation of Admission Control Rodolfo A. Milito, Isabelle Guyon, Sara A. Solla
+Reinforcement Learning in Markovian and Non-Markovian Environments Juergen Schmidhuber
+A Model of Distributed Sensorimotor Control in the Cockroach Escape Turn R.D. Beer, G. J. Kacmarcik, R.E. Ritzmann, H.J. Chiel
+Flight Control in the Dragonfly  A Neurobiological Simulation William E. Faller, Marvin W. Luttges
+A Novel Approach to Prediction of the 3-Dimensional Structures of Protein Backbones by Neural Networks Henrik Fredholm, Henrik Bohr, Jakob Bohr, Søren Brunak, Rodney M. J. Cotterill, Benny Lautrup, Steffen B. Petersen
+Training Knowledge-Based Neural Networks to Recognize Genes in DNA Sequences Michiel O. Noordewier, Geoffrey G. Towell, Jude W. Shavlik
+Neural Network Application to Diagnostics and Control of Vehicle Control Systems Kenneth A. Marko
+Lg Depth Estimation and Ripple Fire Characterization Using Artificial Neural Networks John L. Perry, Douglas R. Baumgardt
+A B-P ANN Commodity Trader Joseph E. Collard
+Integrated Segmentation and Recognition of Hand-Printed Numerals James D. Keeler, David E. Rumelhart, Wee Kheng Leow
+EMPATH  Face, Emotion, and Gender Recognition Using Holons Garrison W. Cottrell, Janet Metcalfe
+SEXNET  A Neural Network Identifies Sex From Human Faces B.A. Golomb, D.T. Lawrence, T.J. Sejnowski
+A Neural Expert System with Automated Extraction of Fuzzy If-Then Rules and Its Application to Medical Diagnosis Yoichi Hayashi
+Analog Neural Networks as Decoders Ruth Erlanson, Yaser Abu-Mostafa
+Distributed Recursive Structure Processing Geraldine Legendre, Yoshiro Miyata, Paul Smolensky
+Translating Locative Prepositions Paul W. Munro, Mary Tabasko
+A Short-Term Memory Architecture for the Learning of Morphophonemic Rules Michael Gasser, Chan-Do Lee
+Exploiting Syllable Structure in a Connectionist Phonology Model David S. Touretzky, Deirdre W. Wheeler
+Language Induction by Phase Transition in Dynamical Recognizers Jordan B. Pollack
+Discovering Discrete Distributed Representations with Iterative Competitive Learning Michael C. Mozer
+Direct memory access using two cues  Finding the intersection of sets in a connectionist model Janet Wiles, Michael S. Humphreys, John D. Bain, Simon Dennis
+An Attractor Neural Network Model of Recall and Recognition Eytan Ruppin, Yehezkel Yeshurun
+ALCOVE  A Connectionist Model of Human Category Learning John K. Kruschke
+Spherical Units as Dynamic Consequential Regions  Implications for Attention, Competition and Categorization Stephen Jose Hanson, Mark A. Gluck
+Connectionist Implementation of a Theory of Generalization Roger N. Shepard, Sheila Kannappan
+Adaptive Spline Networks Jerome H. Friedman
+Multi-Layer Perceptrons with B-Spline Receptive Field Functions Stephen H. Lane, Marshall Flax, David Handelman, Jack Gelfand
+Bumptrees for Efficient Function, Constraint and Classification Learning Stephen M. Omohundro
+Basis-Function Trees as a Generalization of Local Variable Selection Methods for Function Approximation Terence D. Sanger
+Generalization Properties of Radial Basis Functions Sherif M. Botros, Christopher G. Atkeson
+Leaning by Combining Memorization and Gradient Descent John C. Platt
+Sequential Adaptation of Radial Basis Function Neural Networks and its Application to Time-series Prediction V. Kadirkamanathan, M. Niranjan, F. Fallside
+Oriented Non-Radial Basis Functions for Image Coding and Analysis Avijit Saha, Jim Christian, Dun-Sung Tang, Wu Chuan-Lin
+Computing with Arrays of Bell-Shaped and Sigmoid Functions Pierre Baldi
+Discrete Affine Wavelet Transforms For Anaylsis And Synthesis Of Feedfoward Neural Networks Y. C. Pati, P. S. Krishnaprasad
+Extensions of a Theory of Networks for Approximation and Learning  Outliers and Negative Examples Federico Girosi, Tomaso Poggio, Bruno Caprile
+How Receptive Field Parameters Affect Neural Learning Bartlett W. Mel, Stephen M. Omohundro
+A competitive modular connectionist architecture Robert A. Jacobs, Michael I. Jordan
+Evaluation of Adaptive Mixtures of Competing Experts Steven J. Nowlan, Geoffrey E. Hinton
+A Framework for the Cooperation of Learning Algorithms Léon Bottou, Patrick Gallinari
+Connectionist Music Composition Based on Melodic and Stylistic Constraints Michael C. Mozer, Todd Soukup
+Using Genetic Algorithms to Improve Pattern Classification Performance Eric I. Chang, Richard P. Lippmann
+Evolution and Learning in Neural Networks  The Number and Distribution of Learning Trials Affect the Rate of Evolution Ron Keesing, David G. Stork
+Designing Linear Threshold Based Neural Network Pattern Classifiers Terrence L. Fine
+On Stochastic Complexity and Admissible Models for Neural Network Classifiers Padhraic Smyth
+A Method for the Efficient Design of Boltzmann Machines for Classiffication Problems Ajay Gupta, Wolfgang Maass
+Note on Learning Rate Schedules for Stochastic Optimization Christian Darken, John E. Moody
+Convergence of a Neural Network Classifier John S. Baras, Anthony LaVigna
+Learning Theory and Experiments with Competitive Networks Griff L. Bilbro, David E. van den Bout
+Transforming Neural-Net Output Levels to Probability Distributions John S. Denker, Yann LeCun
+Back Propagation is Sensitive to Initial Conditions John F. Kolen, Jordan B. Pollack
+Closed-Form Inversion of Backpropagation Networks  Theory and Optimization Issues Michael L. Rossen
+Generalization by Weight-Elimination with Application to Forecasting Andreas S. Weigend, David E. Rumelhart, Bernardo A. Huberman
+The Devil and the Network  What Sparsity Implies to Robustness and Memory Sanjay Biswas, Santosh S. Venkatesh
+Generalization Dynamics in LMS Trained Linear Networks Yves Chauvin
+Dynamics of Generalization in Linear Perceptrons Anders Krogh, John A. Hertz
+Constructing Hidden Units using Examples and Queries Eric B. Baum, Kevin J. Lang
+Can neural networks do better than the Vapnik-Chervonenkis bounds  David Cohn, Gerald Tesauro
+Second Order Properties of Error Surfaces  Learning Time and Generalization Yann LeCun, Ido Kanter, Sara A. Solla
+Chaitin-Kolmogorov Complexity and Generalization in Neural Networks Barak A. Pearlmutter, Ronald Rosenfeld
+Asymptotic slowing down of the nearest-neighbor classifier Robert R. Snapp, Demetri Psaltis, Santosh S. Venkatesh
+Remarks on Interpolation and Recognition Using Neural Nets Eduardo D. Sontag
+e-Entropy and the Complexity of Feedforward Neural Networks Robert C. Williamson
+On the Circuit Complexity of Neural Networks V. P. Roychowdhury, K. Y. Siu, A. Orlitsky, T. Kailath
+Comparison of three classification techniques  CART, C4.5 and Multi-Layer Perceptrons A. C. Tsoi, R. A. Pearson
+A Comparative Study of the Practical Characteristics of Neural Network and Conventional Pattern Classifiers Kenney Ng, Richard P. Lippmann
+Time Trials on Second-Order and Variable-Learning-Rate Algorithms Richard Rohwer
+Kohonen Networks and Clustering  Comparative Performance in Color Clustering Wesley Snyder, Daniel Nissman, David Van den Bout, Griff Bilbro
+VLSI Implementations of Learning and Memory Systems  A Review Mark A. Holler
+Compact EEPROM-based Weight Functions A. Kramer, C. K. Sin, R. Chu, P. K. Ko
+An Analog VLSI Splining Network Daniel B. Schwartz, Vijay K. Samalam
+Relaxation Networks for Large Supervised Learning Problems Joshua Alspector, Robert B. Allen, Anthony Jayakumar, Torsten Zeppenfeld, Ronny Meir
+Design and Implementation of a High Speed CMAC Neural Network Using Programmable CMOS Logic Cell Arrays W. Thomas Miller III, Brian A. Box, Erich C. Whitney, James M. Glynn
+Back Propagation Implementation on the Adaptive Solutions CNAPS Neurocomputer Chip Hal McCartor
+Reconfigurable Neural Net Chip with 32K Connections H. P. Graf, R. Janow, D. Henderson, R. Lee
+Simulation of the Neocognitron on a CCD Parallel Processing Architecture Michael L. Chuang, Alice M. Chiang
+VLSI Implementation of TInMANN Matt Melton, Tan Phan, Doug Reeves, Dave Van den Bout
