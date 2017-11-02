@@ -14,7 +14,7 @@ Simply
 ```bash
 git clone -r https://github.com/memoiry/cv_paper_scraper
 cd cv_paper_scraper
-pip -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Usage
